@@ -11,7 +11,7 @@ var page = new ABC({
 //Set the type
 page.setType("blank")
 //Set the url
-page.setUrl("https://example.com")
+page.setUrl("url")
 //Get iframe code
 console.log(page.getCode())
 //Open page
